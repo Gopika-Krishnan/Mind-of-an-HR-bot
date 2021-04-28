@@ -8,7 +8,7 @@ The project looks into literature review (what these systems do, common approach
 What is the dynamic between the aspects of efficiency and fairness when Applicant Tracking Systems are utilized into the pipeline of recruitment?  What are the consequences of using ATS in the recruitment process? – identifying flaws in the system, exploring the expectations weighed on the applicant for tailoring their resumes
 
 <b>In specific,</b>
-This repo deals with one of the experiments conducted in the project which is to Craft a resume for a specific field using keywords commonly used in job descriptions of the field and test it against a specific description to see how it performs.
+this repo deals with one of the experiments conducted in the project which is to craft a resume for a specific field using keywords commonly used in job descriptions of the field and test it against a specific description to see how it performs.
 The code published here was used for making wordclouds for job descriptions and skills for the field of software engineering.
 
 
